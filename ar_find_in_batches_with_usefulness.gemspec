@@ -6,11 +6,11 @@ require 'ar_find_in_batches_with_usefulness/version'
 Gem::Specification.new do |spec|
   spec.name          = "ar_find_in_batches_with_usefulness"
   spec.version       = ArFindInBatchesWithUsefulness::VERSION
-  spec.authors       = ["jaketrent"]
-  spec.email         = ["trent.jake@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.authors       = ["Cody Cutrer", "James Williams", "Jake Trent"]
+  spec.email         = ["jaketrent@instructure.com"]
+  spec.summary       = %q{find_in_batches that maintains order, group, distinct}
+  spec.description   = %q{find_in_batches, now with usefulness!}
+  spec.homepage      = "http://www.instructure.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
