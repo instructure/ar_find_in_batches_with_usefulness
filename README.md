@@ -8,4 +8,10 @@ Makes find_in_batches better, preserving
 - Group
 - Distinct
 
+## WARNING
+
+Switchman is being ported from private code used in Instructure's canvas-lms
+product. This port is not yet complete, so there may be missing functionality
+or bugs still remaining.
+
 
