@@ -6,7 +6,7 @@ require "ar_find_in_batches_with_usefulness/version"
 Gem::Specification.new do |spec|
   spec.name          = "ar_find_in_batches_with_usefulness"
   spec.version       = ArFindInBatchesWithUsefulness::VERSION
-  spec.authors       = ["Cody Cutrer", "James Williams", "Jake Trent"]
+  spec.authors       = ["AJ Williamks", "Cody Cutrer", "James Williams", "Jake Trent"]
   spec.email         = ["jaketrent@instructure.com"]
   spec.summary       = "find_in_batches that maintains order, group, distinct"
   spec.description   = "find_in_batches, now with usefulness!"
